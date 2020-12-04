@@ -2,7 +2,7 @@
 
 # Fall 2020 Web Programming
 
-This repository documents my assignments done for **CPS493**.
+This repository documents my assignments/classwork done for **CPS493**.
 
 1. **Personal Information:**
 
